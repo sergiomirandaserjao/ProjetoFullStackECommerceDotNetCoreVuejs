@@ -1,4 +1,4 @@
-# .NET5 with VueJS 3 Composition API (Quasar Framework) ECommerce Project Sérgio Miranda
+# Projeto .NET5 (DOT NET CORE 5) with VueJS 3 Composition API (Quasar Framework) ECommerce Sérgio Miranda
 
 <img alt="Ecommerce Gif" src="assets/ecommerce.gif"> </img>
 
